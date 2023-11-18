@@ -19,3 +19,6 @@ Each participant completed two experimental sessions, each containing three bloc
 ### [Download dataset](https://purl.stanford.edu/bq914sc3730/ "link")
 ## Method
 ## Reference
+Model: <https://colab.research.google.com/drive/16GBgwYR2ECiXVxA1BoLxYshKczNMeEAQ?usp=sharing>  
+Training Process: <https://colab.research.google.com/github/ga642381/ML2021-Spring/blob/main/HW01/HW01.ipynb>  
+Other useful reference: <https://colab.research.google.com/drive/1I8a0DfQ3fI7Njc62__mVXUlcAleUclnb?usp=sharing>  
