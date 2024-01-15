@@ -38,11 +38,18 @@ After K GCN layers, each node’s information would be spread to their k-hop nei
 ### Other methods
 
 ## Setup
-1. You have to save the dataset on your Google Cloud (please do not change the filename) .
-### [Download dataset](https://purl.stanford.edu/bq914sc3730/ "link")
+1. You have to save the dataset on your Google Cloud (please do not change the filename) . [Download dataset](https://purl.stanford.edu/bq914sc3730/ "link")
 2. Load "Project.ipynb" to your Google colab. it can generate multiple 
 
 ## Reference
 Model: <https://colab.research.google.com/drive/16GBgwYR2ECiXVxA1BoLxYshKczNMeEAQ?usp=sharing>  
 Training Process: <https://colab.research.google.com/github/ga642381/ML2021-Spring/blob/main/HW01/HW01.ipynb>  
-Other references: <https://colab.research.google.com/drive/1I8a0DfQ3fI7Njc62__mVXUlcAleUclnb?usp=sharing>  
+Other references: 
+[1] <https://colab.research.google.com/drive/1I8a0DfQ3fI7Njc62__mVXUlcAleUclnb?usp=sharing>  
+[2]	I. Omerhodzic, S. Avdakovic, A. Nuhanovic, K. Dizdarevic. “Energy Distribution of EEG Signals: EEG Signal Wavelet-Neural Network Classifier.”
+[3]	Pari Jahankhani, Vassilis Kodogiannis, Kenneth Revett. “EEG Signal Classification Using Wavelet Feature Extraction and Neural Networks.”  IEEE John Vincent Atanasoff 2006 International Symposium on Modern Computing. IEEE, 2006.
+[4]	Demir, Andac, et al. “EEG-GNN: Graph neural networks for classification of electroencephalogram (EEG) signals.” 2021 43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC). IEEE, 2021.
+[5]	Mehmet Akin. “Comparison of Wavelet Transform and FFT Methods in the Analysis of EEG Signals.” Journal of Medical Systems.
+[6]	Andac Demir, Toshiaki Koike-Akino, Ye Wang, Masaki Haruna, Deniz Erdogmus. “EEG-GNN: Graph Neural Networks for Classification of Electroencephalogram (EEG) Signals.”	
+[7]	Thomas N. Kipf, Max Welling. “Semi-Supervised Classification with Graph Convolutional Networks.” ICLR, 2017.
+
