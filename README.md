@@ -18,11 +18,11 @@ Ten participants, aged 21 to 57 years (median age 30.5 years; 3 female; 1 left-h
 <img width = "404" height = "574" src = "https://github.com/KevinKai02/Group3_Final/blob/main/images/photograph_set.png">  
 Each participant completed two experimental sessions, each containing three blocks, spaced between six and eight days apart. In total, each participant completed 72 trials of each of the 72 images, for a total of 5,184 trials per participant.
 
-### [Download dataset](https://purl.stanford.edu/bq914sc3730/ "link")
 ## Method
 ## Setup
-1. You have to save the dataset on your Google Cloud.  [Download dataset](https://purl.stanford.edu/bq914sc3730/ "link")
-2. 
+1. You have to save the dataset on your Google Cloud.  
+###[Download dataset](https://purl.stanford.edu/bq914sc3730/ "link")
+3. 
 ## Reference
 Model: <https://colab.research.google.com/drive/16GBgwYR2ECiXVxA1BoLxYshKczNMeEAQ?usp=sharing>  
 Training Process: <https://colab.research.google.com/github/ga642381/ML2021-Spring/blob/main/HW01/HW01.ipynb>  
