@@ -20,6 +20,9 @@ Each participant completed two experimental sessions, each containing three bloc
 
 ### [Download dataset](https://purl.stanford.edu/bq914sc3730/ "link")
 ## Method
+## Setup
+1. You have to save the dataset on your Google Cloud.  [Download dataset](https://purl.stanford.edu/bq914sc3730/ "link")
+2. 
 ## Reference
 Model: <https://colab.research.google.com/drive/16GBgwYR2ECiXVxA1BoLxYshKczNMeEAQ?usp=sharing>  
 Training Process: <https://colab.research.google.com/github/ga642381/ML2021-Spring/blob/main/HW01/HW01.ipynb>  
