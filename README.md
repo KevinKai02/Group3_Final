@@ -55,5 +55,5 @@ Other reference:
 [3]	Pari Jahankhani, Vassilis Kodogiannis, Kenneth Revett. “EEG Signal Classification Using Wavelet Feature Extraction and Neural Networks.”  IEEE John Vincent Atanasoff 2006 International Symposium on Modern Computing. IEEE, 2006.  
 [4]	Demir, Andac, et al. “EEG-GNN: Graph neural networks for classification of electroencephalogram (EEG) signals.” 2021 43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC). IEEE, 2021.  
 [5]	Mehmet Akin. “Comparison of Wavelet Transform and FFT Methods in the Analysis of EEG Signals.” Journal of Medical Systems.  
-[6]	Andac Demir, Toshiaki Koike-Akino, Ye Wang, Masaki Haruna, Deniz Erdogmus. “EEG-GNN: Graph Neural Networks for Classification of Electroencephalogram (EEG) Signals.” 	 
+[6]	Andac Demir, Toshiaki Koike-Akino, Ye Wang, Masaki Haruna, Deniz Erdogmus. “EEG-GNN: Graph Neural Networks for Classification of Electroencephalogram (EEG) Signals.”  
 [7]	Thomas N. Kipf, Max Welling. “Semi-Supervised Classification with Graph Convolutional Networks.” ICLR, 2017.  
